@@ -1,0 +1,20 @@
+## missi_phone_global-user 14 UKQ1.231207.002 V816.0.1.0.ULMMIXM release-keys
+- Manufacturer: xiaomi
+- Platform: kona
+- Codename: munch
+- Brand: Redmi
+- Flavor: missi_phone_global-user
+- Release Version: 14
+- Kernel Version: 4.19.157
+- Id: UKQ1.231207.002
+- Incremental: V816.0.1.0.ULMMIXM
+- Tags: release-keys
+- CPU Abilist: arm64-v8a,armeabi-v7a,armeabi
+- A/B Device: true
+- Treble Device: true
+- Locale: en-GB
+- Screen Density: undefined
+- Fingerprint: Redmi/munch/munch:13/RKQ1.211001.001/V816.0.1.0.ULMMIXM:user/release-keys
+- OTA version: 
+- Branch: missi_phone_global-user-14-UKQ1.231207.002-V816.0.1.0.ULMMIXM-release-keys
+- Repo: redmi_munch_dump
